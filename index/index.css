@@ -1,11 +1,22 @@
 ::-webkit-scrollbar {
     display: none;
 }
-body {
-    
-}
+
 
 #title {
     text-align: center;
-    margin-top: 25px;
+    margin-top: 35px;
+    color: rgb(43, 43, 43);
+}
+
+#connect_btn, #inscrir_btn, #aide_btn {
+    display: block;
+    margin: auto;
+    width: 212px;
+    margin-top: 30px;
+ 
+}
+
+#connect_btn {
+    margin-top: 220px;
 }
