@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    display: none;
+}
+body {
+    
+}
+
+#title {
+    text-align: center;
+    margin-top: 25px;
+}
